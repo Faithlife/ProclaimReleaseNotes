@@ -35,7 +35,6 @@ title: Proclaim 1.21 Release Notes
 ### 1.21.0.0380 Monday, March 3, 2014
 
 #### Bug Fixes
-
 * Fixed text rendering bug related to negative font spacing.
 * Fixed presentation control focus issue after clicking quick screen button.
 * Properly handling authenticated access to Bibles on Mac
@@ -44,7 +43,6 @@ title: Proclaim 1.21 Release Notes
 ### 1.21.0.0372 Wednesday, February 26, 2014
 
 #### Bug Fixes
-
 * Fixed bug related to slide rendering which sometimes caused incorrect slides to be rendered (would not update the slides correctly).
 * Fixed memory leak on Mac which caused crashes when dealing with large presentations.
 * Fixed timeline bug on Windows where the hot key overlay was not showing. Hot keys now show on slides in the timeline that are applicable.
@@ -52,18 +50,15 @@ title: Proclaim 1.21 Release Notes
 ### 1.21.0.0370 Tuesday, February 25, 2014
 
 #### Bug Fixes
-
 * Fixed infrequently occurring crash related to open presentation menu
 * Fixed crash related to .NET framework upgrade and lack of internet connectivity
 
 #### Enhancements
-
 * Decision to skip specific update on Windows remembered for seven days
 
 ### 1.21.0.0368 Tuesday, February 25, 2014
 
 #### Bug Fixes
-
 * Fixed bug where ‘continue free trial’ button was not showing up during start up. The button shows correctly now.
 * Fixed Timeline bug on Windows where the timeline would not scroll the current item into view.
 * Fixed crash related to uninstalling Proclaim OLD VERSION
@@ -71,7 +66,6 @@ title: Proclaim 1.21 Release Notes
 ### 1.21.0.0361 Monday, February 24, 2014
 
 #### Changes
-
 * Rewrote the slide rendering code to make it cross platform (Mac and Windows), ensuring identical layout and rendering on each platform.
 * Moved away from the antiquated and unreliable ClickOnce installer technology to a more traditional Windows installer. This change should eliminate the corrupt installation problem that has been plaguing Proclaim users on Windows.
 * Moved from .NET 3.5 to .NET 4.5, which is performed automatically by the installer. This should provide performance increases as well as allow us to take advantage of new features in the framework.
@@ -87,7 +81,6 @@ title: Proclaim 1.21 Release Notes
 * Updated ‘getting started’ video to match the FlatUI changes.
 
 #### Bug Fixes
-
 * Fixed some issues related to improperly constructed reference display text.
 * Fixed bug causing dismissed toast message from reappearing.
 * Fixed bug where video uploads would get to 99% and then fail.
