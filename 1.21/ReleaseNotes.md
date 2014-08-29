@@ -1,5 +1,5 @@
 ---
-title: Proclaim 1.24 Release Notes
+title: Proclaim 1.21 Release Notes
 ---
 
 # Proclaim Version 1.21
