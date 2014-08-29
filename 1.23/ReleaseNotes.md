@@ -5,11 +5,13 @@ title: Proclaim 1.23 Release Notes
 # Proclaim Version 1.23
 
 ### 1.23.0.0269 Tuesday, July 22, 2014
+
 #### Bug Fixes
 * Fixed crash related to fading video audio in/out
 * Fixed potential hang when network requests fail to abort gracefully
 
 ### 1.23.0.0268 Tuesday, July 17, 2014
+
 #### Changes
 * Added simple background picker to edit view
 
@@ -18,6 +20,7 @@ title: Proclaim 1.23 Release Notes
 * Fixed crash related to closing Media Browser window
 
 ### 1.23.0.0267 Tuesday, July 17, 2014
+
 #### Changes
 * Added simple background picker to edit view
 
@@ -26,6 +29,7 @@ title: Proclaim 1.23 Release Notes
 * Fixed crash related to closing Media Browser window
 
 ### 1.23.0.0266 Tuesday, July 15, 2014
+
 #### Changes
 * Added alt+left arrow key as a shortcut for the back button in the media browser
 
@@ -35,6 +39,7 @@ title: Proclaim 1.23 Release Notes
 * Fixed bug where ‘Your search did not match any media’ message showed when first viewing a media series while thumbnails were loading
 
 ### 1.23.0.0265 Monday, July 14, 2014
+
 #### Changes
 * New media browsing feature. This allows for a better, more organized searching experience for a groups media. New features include media and service item type filters, organization based on the media series, various different views, and an improved UI
 * Audio fading; Audio will now fade out when stopping background audio
