@@ -2,10 +2,9 @@ Proclaim Release Notes
 ====================
 
 Release Notes for Proclaim from Faithlife Corporation
-* Work on master branch
+* Work on gh-pages branch
 * Create a folder for each version (major.minor)
 * Add/Edit ReleaseNotes.md in the subfolder populated with release notes (newest at the top)
-* Merge/Cherry-pick from master to the gh-pages branch
 * Pages with appropriate markdown will automatically be available as html pages
 
 **Markdown and Pages**
