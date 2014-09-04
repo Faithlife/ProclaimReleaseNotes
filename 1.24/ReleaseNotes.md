@@ -49,3 +49,6 @@ title: Proclaim 1.24 Release Notes
 * Fixing bug related to uploading media and that media not loading correctly offline. All backgrounds used will load correctly offline now.
 * (Windows Only) Added a warning message to songs when lines are long enough to force text scaling. Notifies the user when text size is being affected by the length of a line an a verse.
 * Fixed bug where copying and pasting certain text into a Song lyrics text box caused Proclaim to hang. Copying and pasting text into a Song item will work correctly now.
+
+
+Updated: Sept 4, 2014 @ 2:55 PDT
