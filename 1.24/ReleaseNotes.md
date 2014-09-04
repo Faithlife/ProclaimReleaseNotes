@@ -51,4 +51,4 @@ title: Proclaim 1.24 Release Notes
 * Fixed bug where copying and pasting certain text into a Song lyrics text box caused Proclaim to hang. Copying and pasting text into a Song item will work correctly now.
 
 
-Updated: Sept 4, 2014 @ 2:55 PDT
+Updated: Sept 4, 2014 @ 3:23 PDT
