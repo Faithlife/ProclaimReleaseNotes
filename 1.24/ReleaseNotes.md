@@ -10,6 +10,7 @@ title: Proclaim 1.24 Release Notes
 * Fixed crash related to displaying text from multiple languages.
 * Fixed crash when using notes output on a monitor.
 
+
 ### 1.24.0.0511 Tuesday, September 2, 2014
 * Fixed hang when going on air without a wifi connection. Using Proclaim and going on air without internet now works correctly.
 * Fixed timing related animation issue for OSB.
