@@ -1,4 +1,4 @@
 Proclaim Release Notes
 ====================
 
-Switch to do your work on the **gh-pages** branch
+Switch to the **gh-pages** branch for editing Proclaim Release Notes
