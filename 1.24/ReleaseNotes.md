@@ -4,6 +4,20 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
+### 1.24.0.0513 Thursday, September 4, 2014
+* Fixed bug that caused video volume to permanently lower after a fade-out.
+* Fixed bug where songs were not respecting line breaks.
+* Fixed crash related to displaying text from multiple languages.
+* Fixed crash when using notes output on a monitor.
+
+### 1.24.0.0511 Tuesday, September 2, 2014
+* Fixed hang when going on air without a wifi connection. Using Proclaim and going on air without internet now works correctly.
+* Fixed timing related animation issue for OSB.
+* Fixed crash related to audio tracks.
+
+### 1.24.0.0508 (Mac only) Friday, August 29, 2014
+* Fixed bug causing foreground images to be scaled incorrectly.
+
 ### 1.24.0.0507 (Mac only) Wednesday, August 27, 2014
 * Updated Mac installer release notes link.
 
