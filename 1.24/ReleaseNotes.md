@@ -4,6 +4,9 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
+### 1.24.0.0518 (Mac Only)
+* Fixed crash related to going on air with unstable internet/wifi. Proclaim no longer crashes when on air with unstable internet; This also fixes potential crashes when viewing the media browser.
+
 ### 1.24.0.0516 (Mac Only)
 * Fixed crash related to buttons that could be pressed repeatably.
 * Fixed crash on start up related to default language of Mac being Portuguese.
