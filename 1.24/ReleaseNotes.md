@@ -4,7 +4,7 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
-### 1.24.0.0521
+### 1.24.0.0521 Tuesday, September 16, 2014
 * Audio no longer plays when using the Logo quick screen.
 * Improved experience when changing song titles. Song changes only upload now when changing focus to a different service item or shutting down Proclaim; This should prevent unwanted changes to song lyrics.
 * Added Bible Screen and Logos Mobile Ed collections to the search facets in the Media Browser.
