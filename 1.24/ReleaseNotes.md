@@ -4,6 +4,9 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
+### 1.24.0.0522 Thursday, September 18, 2014
+* Fixed crash related to updating audio when viewing the Logo Quickscreen.
+
 ### 1.24.0.0521 Tuesday, September 16, 2014
 * Audio no longer plays when using the Logo quick screen.
 * Improved experience when changing song titles. Song changes only upload now when changing focus to a different service item or shutting down Proclaim; This should prevent unwanted changes to song lyrics.
