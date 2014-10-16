@@ -4,6 +4,11 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
+### 1.24.0.0524 (Mac Only) Thursday, October 16, 2014
+* Fixed crash when switching to a different service item while having the text alignment popup open.
+* Fixed crash when closing the Group Manager window via the Account menu.
+* Improved memory usage of Proclaim.
+
 ### 1.24.0.0522 Thursday, September 18, 2014
 * Fixed crash related to updating audio when viewing the Logo Quickscreen.
 
@@ -66,4 +71,4 @@ title: Proclaim 1.24 Release Notes
 * Fixed bug where copying and pasting certain text into a Song lyrics text box caused Proclaim to hang. Copying and pasting text into a Song item will work correctly now.
 
 
-Updated: Sept 16, 2014 @ 10:26 PDT
+Updated: October 16, 2014 @ 1:34 PDT
