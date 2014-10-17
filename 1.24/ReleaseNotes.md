@@ -5,9 +5,9 @@ title: Proclaim 1.24 Release Notes
 # Proclaim Version 1.24
 
 ### 1.24.0.0524 (Mac Only) Thursday, October 16, 2014
+* Improved memory usage of Proclaim when running OS X 10.10 (Yosemite). Proclaim should now run smoothly with a Mac running Yosemite as its OS.
 * Fixed crash when switching to a different service item while having the text alignment popup open.
 * Fixed crash when closing the Group Manager window via the Account menu.
-* Improved memory usage of Proclaim.
 
 ### 1.24.0.0522 Thursday, September 18, 2014
 * Fixed crash related to updating audio when viewing the Logo Quickscreen.
