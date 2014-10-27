@@ -8,10 +8,12 @@ title: Proclaim 1.25 Release Notes
 * Send to Proclaim enhancements for [Logos 6](http://logos.com).
 * Added support to media browser for editing group upload media title, description, video loop setting, and tags.
 * Save Bible and Song service item settings in synced user preference and use saved values when creating new items.
+* Tags and service item kind are now clickable for searching in Media Browser.
 * Added new UI to "Link your accounts..." menu for [linking user licensed content](https://community.logos.com/forums/t/92805.aspx). 
 * Added Highway Media search facet.
 * Added Alt+M keyboard shortcut for opening Media Browser to last viewed state.
 * Added quick screen keyboard shortcuts on Mac, now matching Windows.
+* Performance improvements on Mac when navigating video backgrounds while on air.
 * Added account menu button to invite group members.
 * Added button to create a group when a user cannot find a group.
 * Added button to link SongSelect account in song entry helper search results.
@@ -29,3 +31,5 @@ title: Proclaim 1.25 Release Notes
 * Fixing bug causing unecessary calls to try and hide duplicate media.
 * Fixed video player preview distortion (Windows only).
 * Moved analytics web call to thread pool thread which could have previously caused a hang when resolving DNS.
+* Supporting drag and drop from Media Browser to Image Slideshow service item.
+* Fixed a few issues in On Screen Bible related to certain reference ranges.
