@@ -32,7 +32,7 @@ title: Proclaim 1.25 Release Notes
 * Add support for Hindi, Burmese, Nepalese system font fallbacks.
 * Added new Greek and Hebrew fonts for Send to Proclaim support.
 * Updated [getting started video](http://fast.wistia.net/embed/iframe/5wif3me9vy).
-* Fixing bug causing unecessary calls to try and hide duplicate media.
+* Fixing bug causing unnecessary calls to try and hide duplicate media.
 * Fixed video player preview distortion (Windows only).
 * Moved analytics web call to thread pool thread which could have previously caused a hang when resolving DNS.
 * Supporting drag and drop from Media Browser to Image Slideshow service item.
