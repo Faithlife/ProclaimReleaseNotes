@@ -4,6 +4,11 @@ title: Proclaim 1.25 Release Notes
 
 # Proclaim Version 1.25
 
+### 1.25.0.0399 Tuesday, October 28, 2014
+* Fixed issue with reszing Faithlife Panel (Mac only).
+* Fixed crash that could occur when searching for songs.
+* Force sync when current group changes.
+
 ### 1.25.0.0397 Monday, October 27, 2014 (Mac only)
 * Fixed input event issue which could result in lost keystrokes and mouse clicks.
 * Fixed crash in Send to Proclaim when sending images from Logos 6.
