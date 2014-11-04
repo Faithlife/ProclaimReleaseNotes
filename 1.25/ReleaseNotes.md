@@ -4,6 +4,15 @@ title: Proclaim 1.25 Release Notes
 
 # Proclaim Version 1.25
 
+### 1.25.0.0406 Monday, November 3, 2014
+* Fixed bug where audio in pre-service loop would play when viewing a blank quick screen.
+* Fixed the way custom verse tags for song items are rendered on the confidence monitor.
+* Fixed bug where 'Include words of Christ in red' was not working correctly.
+* Fixed crash related to Logos 6 and 'Send to Proclaim'.
+* Fixed bug related to going off-air with a quick screen showing; a quick screen service item will no longer show in the edit view when going off air.
+* Pattern Fills now remember the 'Blend Mode' setting when saved w/ a style.
+* Pattern Fills now render correctly in the 'Styles' menu.
+
 ### 1.25.0.0399 Tuesday, October 28, 2014
 * Fixed issue with reszing Faithlife Panel (Mac only).
 * Fixed crash that could occur when searching for songs.
