@@ -5,7 +5,7 @@ title: Proclaim 1.25 Release Notes
 # Proclaim Version 1.25
 
 ### 1.25.0.0410 Tuesday, November 11, 2014 (Mac only)
-* Fixed various memory leaks that improve Performance on machines running Yosemite (OS X 10.10).
+* Fixed various memory leaks that improve performance on machines running Yosemite (OS X 10.10).
 
 ### 1.25.0.0406 Monday, November 3, 2014
 * Fixed bug where audio in pre-service loop would play when viewing a blank quick screen.
