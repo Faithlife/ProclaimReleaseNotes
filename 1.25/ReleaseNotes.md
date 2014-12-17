@@ -4,6 +4,10 @@ title: Proclaim 1.25 Release Notes
 
 # Proclaim Version 1.25
 
+### 1.25.0.0413 Wednesday, December 17, 2014 (Mac only)
+* Fixed bug where background audio playlist could not be to set to end at the end of the section.
+* Fixed bug where uploading files and audio from the account menu did not work.
+
 ### 1.25.0.0410 Tuesday, November 11, 2014 (Mac only)
 * Fixed various memory leaks that improve performance on machines running Yosemite (OS X 10.10).
 
