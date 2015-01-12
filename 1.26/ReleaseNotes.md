@@ -4,7 +4,9 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
-### 1.26.0.??? Monday, January 12, 2015
+Version 1.26 includes data format changes making it a required update for all users.
+
+### 1.26.0.0511 Monday, January 12, 2015
 * Improved foreground image support.
 * Emphasis text.
 * Added multi-select support to Media Browser.
