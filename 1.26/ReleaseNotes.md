@@ -6,6 +6,12 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0518 Tuesday, January 13, 2015
+* Fixed crash when adding Discover card to billing profile on Mac
+* Fixed crash related to background upload jobs started on earlier version of client and finished on 1.26
+* Fixed crash related to foreground image
+* Fixed Keynote import issue when file name includes parenthesis
+
 ### 1.26.0.0511 Monday, January 12, 2015
 * Improved foreground image support.
 * Emphasis text.
