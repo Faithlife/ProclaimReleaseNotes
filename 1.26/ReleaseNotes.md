@@ -6,6 +6,9 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0522 (Mac Only) Friday, January 16, 2015
+* Fixed video playback on machines running OS X 10.8.
+
 ### 1.26.0.0521 Thursday, January 15, 2015
 * Fixed vertical scrollbar for image slideshow (Windows)
 * Fixed video playback issue on video completion (Mac)
