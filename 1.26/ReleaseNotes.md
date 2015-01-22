@@ -6,6 +6,13 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0528 Thursday, January 22, 2015
+* Shift+Drag Foregound Images maintains Aspect Ratio (Windows Only)
+* Foreground Image name is now selectable from the edit area
+* Fixed Mac Video hang on OS X 10.8
+* Fixed Song Lyric import on Mac
+* Minor changes to Media Browser
+
 ### 1.26.0.0523 (Mac Only) Friday, January 16, 2015
 * Fixed Imageslideshow transitions.
 
