@@ -6,6 +6,12 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0533 Monday, February 2, 2015
+* Shift+Drag Foregound Images maintains Aspect Ratio on Mac also now
+* Getting started video is a web page
+* Fixed Faithlife panel
+* Fixed an issue with two adjascent service items having the same video
+
 ### 1.26.0.0528 Thursday, January 22, 2015
 * Shift+Drag Foregound Images maintains Aspect Ratio (Windows Only)
 * Foreground Image name is now selectable from the edit area
