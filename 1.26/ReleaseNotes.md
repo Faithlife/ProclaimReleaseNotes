@@ -6,6 +6,9 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0535 Wednesday, February 4, 2015
+* Fixed an issue where service item slides with motion backgrounds would reset when moving between slides
+
 ### 1.26.0.0533 Monday, February 2, 2015
 * Shift+Drag Foregound Images maintains Aspect Ratio on Mac also now
 * Getting started video is a web page
