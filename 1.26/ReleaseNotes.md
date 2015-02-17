@@ -6,6 +6,9 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0541 Monday, February 17, 2015
+* Added new Church Motion Graphics media channel.
+
 ### 1.26.0.0535 Wednesday, February 4, 2015
 * Fixed an issue where service item slides with motion backgrounds would reset when moving between slides
 
