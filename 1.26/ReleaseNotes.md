@@ -6,6 +6,30 @@ title: Proclaim 1.26 Release Notes
 
 Version 1.26 includes data format changes making it a required update for all users.
 
+### 1.26.0.0564 Monday, March 16th, 2015
+* User Interface overhaul. Color scheme has been made brighter and with more contrast, and various different UI elements have been changed
+* Timeline can now be collapsed
+* Customize toolbar for rich text fields now wraps on smaller screens
+* Dropping support for Mac OS X 10.8
+* Added new transitions to Mac: Horizontal Wipe, Vertical Wipe, Page Transition
+* Added 64-bit Windows Support
+* Added Mac fullscreen Support
+* Improved ’Transfer Control to PowerPoint’ feature on Windows
+* Can now use ‘Import from Planning Center’ to add to an existing presentation
+* ‘Import from Planning Center’ now uses most recently customized text styles
+* OSB QuickScreen supports bible version e.g. Gen 1:1 (ESV)
+* Allow Service Start Time to be typed in 24-hour format e.g. 14:00 (2 PM)
+* Fixed bug related to selecting rotated text fields
+* Fixed crash related to backing up presentation with certain pieces of media
+* Fix Window resizing issue when going On-Air with a Mac
+* Fix bug related to confidence monitor output not displaying indented text correctly
+* Removing unlicensed media will always fall back to generic media
+* Changed purchase screens to be modal on Windows
+* Fixed issues with third party login screens
+* Lock Icons now show on all unlicensed media
+* Fixed bug where Faithlife panel failed to load until switching to a different tab
+
+
 ### 1.26.0.0541 Monday, February 17, 2015
 * Added new Church Motion Graphics media facet.
 * Fixed text clipping bug.
