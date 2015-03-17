@@ -4,13 +4,10 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
-Version 1.26 includes data format changes making it a required update for all users.
-
 ### 1.26.0.0564 Monday, March 16th, 2015
 * User Interface overhaul. Color scheme has been made brighter and with more contrast, and various different UI elements have been changed
 * Timeline can now be collapsed
 * Customize toolbar for rich text fields now wraps on smaller screens
-* Dropping support for Mac OS X 10.8
 * Added new transitions to Mac: Horizontal Wipe, Vertical Wipe, Page Transition
 * Added 64-bit Windows Support
 * Added Mac fullscreen Support
