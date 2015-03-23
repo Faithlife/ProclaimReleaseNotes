@@ -4,7 +4,7 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
-### 1.26.0.0580 Monday, March 23rd, 2015
+### 1.26.0.0580 (Windows Only) Monday, March 23rd, 2015
 * 64-bit Windows installer updates 32-bit Proclaim installs to 64-bit on 64-bit machines
 * Font-families show in font picker again
 * Remove animation from drop-down lists
