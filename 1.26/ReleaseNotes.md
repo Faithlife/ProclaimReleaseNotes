@@ -4,6 +4,14 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
+### 1.26.0.0580 Monday, March 23rd, 2015
+* 64-bit Windows installer updates 32-bit Proclaim installs to 64-bit on 64-bit machines
+* Font-families show in font picker again
+* Remove animation from drop-down lists
+* Fix bug causing crash if you search for an empty/blank referece in On-Screen Bible
+* Add a "?" to the end of "Did you mean to look in the Store" text in Media Browser
+* Minor tweaks to user interface
+
 ### 1.26.0.0564 Monday, March 16th, 2015
 * User Interface overhaul. Color scheme has been made brighter and with more contrast, and various different UI elements have been changed
 * Timeline can now be collapsed
