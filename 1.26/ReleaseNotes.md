@@ -4,6 +4,12 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
+### 1.26.0.0589 Tuesday, March 24th, 2015
+* Fixed bug where Faithlife panel showed info from previous user who was signed in
+* Fixed bug where text edit controls were not showing for song item rich text fields
+* Fixed bug regarding foreground image placement
+* Fixed bug where adding a song to a service item with existing background audio was not possible
+
 ### 1.26.0.0580 (Windows Only) Monday, March 23rd, 2015
 * 64-bit Windows installer updates 32-bit Proclaim installs to 64-bit on 64-bit machines
 * Font-families show in font picker again
