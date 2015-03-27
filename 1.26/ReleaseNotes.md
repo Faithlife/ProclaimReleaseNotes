@@ -4,6 +4,11 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
+### 1.26.0.0593 Thursay, March 26th, 2015
+* Fixed a bug where lock icons could show on user's media that hadn't been downloaded yet
+* Fixed a bug where video controls would be too small
+* Fixed a bug where the forward and back arrow controls would be too large
+
 ### 1.26.0.0589 Tuesday, March 24th, 2015
 * Fixed bug where Faithlife panel showed info from previous user who was signed in
 * Fixed bug where text edit controls were not showing for song item rich text fields
