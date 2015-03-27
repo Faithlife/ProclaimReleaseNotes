@@ -4,7 +4,7 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
-### 1.26.0.0593 Thursay, March 26th, 2015
+### 1.26.0.0593 Thursday, March 26th, 2015
 * Fixed a bug where lock icons could show on user's media that hadn't been downloaded yet
 * Fixed a bug where video controls would be too small
 * Fixed a bug where the forward and back arrow controls would be too large
