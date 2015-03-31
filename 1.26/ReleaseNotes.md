@@ -2,8 +2,8 @@
 title: Proclaim 1.26 Release Notes
 ---
 
-# Proclaim Version 1.26 Tuesday, March 31st, 2015
-### 1.260.0.0607 
+# Proclaim Version
+### 1.260.0.0607 Tuesday, March 31st, 2015
 * Don’t generate slides for trailing blank lines
 * Remove check to see if a video is loaded before uploading it. This should help with video upload issues
 * Fixed crash related to syncing changes and going On-Air at the same time
