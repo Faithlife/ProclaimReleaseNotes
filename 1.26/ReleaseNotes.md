@@ -3,7 +3,15 @@ title: Proclaim 1.26 Release Notes
 ---
 
 # Proclaim Version 1.26
+### 1.260.0.0607
+* Don’t generate slides for trailing blank lines
+* Remove check to see if a video is loaded before uploading it. This should help with video upload issues
+* Fixed crash related to syncing changes and going On-Air at the same time
+* Fixed crash related to OSB Quick Screen. Removed ability for OSB to specify Bible version momentarily.
+* Fixed backing up a presentation containing background audio
+* Fixed ‘Import from Planning Center’ window on Mac. The items are now easier to select
 
+Added additional logging
 ### 1.26.0.0593 Thursday, March 26th, 2015
 * Fixed a bug where lock icons could show on user's media that hadn't been downloaded yet
 * Fixed a bug where video controls would be too small
