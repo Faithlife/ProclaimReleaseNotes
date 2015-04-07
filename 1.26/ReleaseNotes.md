@@ -4,6 +4,12 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
+### 1.26.0.0609 (Windows Only) Tuesday, April 7th, 2015
+* Improved ‘Transfer Control to PowerPoint’ in various ways
+* Fixed crash related to ‘Transfer Control to PowerPoint’
+* Removed True Crimes font
+* Added additional logging related to fonts
+
 ### 1.26.0.0607 Tuesday, March 31st, 2015
 * Don’t generate slides for trailing blank lines
 * Remove check to see if a video is loaded before uploading it. This should help with video upload issues
