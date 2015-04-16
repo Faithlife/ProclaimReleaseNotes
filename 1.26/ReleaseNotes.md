@@ -4,6 +4,9 @@ title: Proclaim 1.26 Release Notes
 
 # Proclaim Version 1.26
 
+### 1.26.0.0611 Thursday, April 16th, 2015
+* Fixed crash related to certain text rendering.
+
 ### 1.26.0.0609 (Windows Only) Tuesday, April 7th, 2015
 * Improved ‘Transfer Control to PowerPoint’ in various ways
 * Fixed crash related to ‘Transfer Control to PowerPoint’
