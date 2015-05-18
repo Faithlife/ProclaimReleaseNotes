@@ -11,3 +11,4 @@ title: Proclaim 1.28 Release Notes
 * Close buttons are now lighter; this makes seeing them much easier.
 * True Crimes font has been re-enabled as well as it’s associated styles.
 * Added a breadcrumb bar to the Media Browser.
+* Added Color filters to the Media Browser to allow filtering media by their dominant colors.
