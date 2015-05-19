@@ -4,6 +4,9 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0760 Monday, May 18th, 2015
+ * Minor improvements to web installer.
+
 ### 1.28.0.0756 Monday, May 18th, 2015
 * Improved Web Browser Service Items; this includes Web Page Service Items and Survey Service Items.
 * Improved On-Screen Bible Service Items in various ways. Various bugs have been fixed with OSB service items.
