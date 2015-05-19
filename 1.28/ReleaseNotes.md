@@ -9,6 +9,6 @@ title: Proclaim 1.28 Release Notes
 * Improved On-Screen Bible Service Items in various ways. Various bugs have been fixed with OSB service items.
 * Add a scroll bar to the edit view of service items on Windows. Now when the Main Window of Proclaim is small, a scroll bar will be added correctly in the edit view.
 * Close buttons are now lighter; this makes seeing them much easier.
-* True Crimes font has been re-enabled as well as it’s associated styles.
+* True Crimes font has been re-enabled as well as its associated styles.
 * Added a breadcrumb bar to the Media Browser.
 * Added Color filters to the Media Browser to allow filtering media by their dominant colors.
