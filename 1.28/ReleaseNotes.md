@@ -4,6 +4,9 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0763 Friday, May 22nd, 2015
+* Fixed crashes related to Web Page service items.
+
 ### 1.28.0.0760 Monday, May 18th, 2015
  * Minor improvements to web installer.
 
