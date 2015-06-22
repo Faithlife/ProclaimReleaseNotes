@@ -4,6 +4,15 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0774 Monday, June 22nd, 2015
+* Added new Grid Preview slide viewing mode
+* Improved application performance and memory usage when scrolling the Timeline
+* Improved animation performance of On Screen Bible and Web Page service items
+* Improved crawl and pager text animations and allow their location and size to be configured
+* Fixed bug in On Screen Bible where the book introduction would be seen multiple times in some cases
+* Fixed an issue where Windows 10 installer would sometimes not install the prerequisites for Proclaim
+* Fix several minor bugs
+
 ### 1.28.0.0763 Friday, May 22nd, 2015
 * Fixed crashes related to Web Page service items.
 
