@@ -4,7 +4,7 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
-### 1.28.0.0774 (Mac Only) Wednesday, June 24nd, 2015
+### 1.28.0.0775 (Mac Only) Wednesday, June 24nd, 2015
 * Fixed a bug on Mac where crawl text position would reset when moving between slides while on air
 
 ### 1.28.0.0774 Monday, June 22nd, 2015
