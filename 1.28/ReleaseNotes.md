@@ -4,6 +4,9 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0778 (Windows Only) Friday, June 26th, 2015
+* Fixed bug where certain text on slides would not fade/transition in properly. Transitioning between slides now works correctly.
+
 ### 1.28.0.0775 (Mac Only) Wednesday, June 24nd, 2015
 * Fixed a bug on Mac where crawl text position would reset when moving between slides while on air
 
