@@ -4,6 +4,9 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0779 (Windows Only) Friday, June 26th, 2015
+* Fixed bug where certain slides would cause a crash when transitioning.
+
 ### 1.28.0.0778 (Windows Only) Friday, June 26th, 2015
 * Fixed bug where certain text on slides would not fade/transition in properly. Transitioning between slides now works correctly.
 
