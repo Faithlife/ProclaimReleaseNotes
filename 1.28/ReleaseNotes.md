@@ -4,6 +4,13 @@ title: Proclaim 1.28 Release Notes
 
 # Proclaim Version 1.28
 
+### 1.28.0.0782 Wednesday, July 1st, 2015
+* Improved performance of Mac Timeline and Grid Preview views
+* Added undo and redo to context menu on Timeline
+* Improved behavior of right click on Timeline and Grid Preview views
+* Fix issue where popups on Timeline view could appear over the on-air screen
+* Fix several bugs
+
 ### 1.28.0.0779 (Windows Only) Friday, June 26th, 2015
 * Fixed bug where certain slides would cause a crash when transitioning.
 
