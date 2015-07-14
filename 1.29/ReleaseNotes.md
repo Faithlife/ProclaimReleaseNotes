@@ -5,7 +5,7 @@ title: Proclaim 1.29 Release Notes
 # Proclaim Version 1.29
 
 ### 1.29.0.0423 Tuesday, July 14, 2015
-* Fixed a bug where the scroll bar did not work on custom song lyrics.
+* Fixed a bug where the scroll bar did not work on custom-ordered song lyrics.
 * Fixed Mac issue where "No text" was unavailable from the Quick Screens menu.
 * Fixed Mac issue where slides were not auto-advancing properly.
 * Improved stability when searching for media in browser.
