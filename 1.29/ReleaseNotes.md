@@ -9,7 +9,7 @@ title: Proclaim 1.29 Release Notes
 * Fixed a bug where videos and motion backgrounds were not properly identified in previews.
 * Fixed a bug where moving text boxes would sometimes cause slides to hang indefinitely.
 * Rolled back custom order sequence change for song service items until we have a solution that is optimized for small displays.
-* 
+
 ### 1.29.0.0423 Tuesday, July 14, 2015
 * Fixed a bug where the scroll bar did not work on custom-ordered song lyrics.
 * Fixed Mac issue where "No text" was unavailable from the Quick Screens menu.
