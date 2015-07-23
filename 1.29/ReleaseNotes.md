@@ -4,6 +4,9 @@ title: Proclaim 1.29 Release Notes
 
 # Proclaim Version 1.29
 
+### 1.29.0.0426 Monday, July 23, 2015
+* Fixed crash during remote controlled Presentation while logged into Proclaim as non group admin.
+
 ### 1.29.0.0425 Monday, July 20, 2015
 * Fixed a bug where mobile followers were showing up as group members.
 * Fixed a bug where videos and motion backgrounds were not properly identified in previews.
