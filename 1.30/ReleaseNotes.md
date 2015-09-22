@@ -4,6 +4,10 @@ title: Proclaim 1.30 Release Notes
 
 # Proclaim Version 1.30
 
+### 1.30.0.0704 Tuesday, September 22, 2015
+
+* Fixed crash related to starting using a new Proclaim group
+
 ### 1.30.0.0702 Monday, September 21, 2015
 
 * Fixed several crashes related to Mac OS X 10.11
