@@ -4,6 +4,12 @@ title: Proclaim 1.30 Release Notes
 
 # Proclaim Version 1.30
 
+### 1.30.0.0704 (Windows only) Tuesday, September 22, 2015
+
+* Fixed crash when launching Proclaim on Windows Vista
+* Fixed crash related to skipping elevation prompt during Proclaim install
+* Opted everyone out of using the Experimental Video Player. Users can opt in again if they want. 
+
 ### 1.30.0.0704 Tuesday, September 22, 2015
 
 * Fixed crash related to starting using a new Proclaim group
