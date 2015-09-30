@@ -4,6 +4,12 @@ title: Proclaim 1.30 Release Notes
 
 # Proclaim Version 1.30
 
+### 1.30.0.0714 (Windows only) Wednesday, September 30, 2015
+
+* Unify shortcut icon and application icon on the taskbar in Windows 7 and later
+* Change splash screen
+* Detect additional installer failures and rollback in those cases
+
 ### 1.30.0.0704 (Windows only) Tuesday, September 22, 2015
 
 * Fixed crash when launching Proclaim on Windows Vista
