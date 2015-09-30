@@ -10,7 +10,7 @@ title: Proclaim 1.30 Release Notes
 * Change splash screen
 * Detect additional installer failures and rollback in those cases
 
-### 1.30.0.0704 (Windows only) Tuesday, September 22, 2015
+### 1.30.0.0708 (Windows only) Tuesday, September 22, 2015
 
 * Fixed crash when launching Proclaim on Windows Vista
 * Fixed crash related to skipping elevation prompt during Proclaim install
