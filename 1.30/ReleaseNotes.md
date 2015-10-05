@@ -9,6 +9,7 @@ title: Proclaim 1.30 Release Notes
 * Unify shortcut icon and application icon on the taskbar in Windows 7 and later
 * Change splash screen
 * Detect additional installer failures and rollback in those cases
+* Allow user to log in if we fail to save credentials (Mac)
 
 ### 1.30.0.0708 (Windows only) Tuesday, September 22, 2015
 
