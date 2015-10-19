@@ -10,4 +10,3 @@ title: Proclaim 1.31 Release Notes
 * Added support for .m4a audio files so users can import songs directly from iTunes
 * Added support for Bible references on the final slide
 * Many minor bug fixes
-* [Test link](http:///logos.com)
