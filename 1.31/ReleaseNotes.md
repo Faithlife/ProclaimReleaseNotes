@@ -4,6 +4,10 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0802 (Mac only) Monday, October 19, 2015
+
+* Fix crash when setting up Faithlife Church Group
+
 ### 1.31.0.0801 (Windows only) Monday, October 19, 2015
 
 * Fix crash in Sermon Recording related to retrieving audio input device names
