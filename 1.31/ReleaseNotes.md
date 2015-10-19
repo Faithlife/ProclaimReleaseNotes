@@ -12,5 +12,6 @@ title: Proclaim 1.31 Release Notes
 
 * Added new audio recording/publishing feature
 * Added support for .m4a audio files so users can import songs directly from iTunes
+* Added support for SongSelect's 30 second audio sample when available
 * Added support for Bible references on the final slide
 * Many minor bug fixes
