@@ -4,6 +4,12 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0806 (Mac only) Tuesday, October 19, 2015
+
+* Allow opening some Proclaim panels again
+* Fix rare crash when quickly closing elements
+* Fix crash related to adding songs from PCO
+
 ### 1.31.0.0804 Tuesday, October 20, 2015
 
 * Fix crash when on-air recording sermon and another user changes the presentation is specific ways
