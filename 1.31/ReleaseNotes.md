@@ -4,6 +4,15 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0811 Monday, November 2, 2015
+* Temporarily disabled several slide transitions on Mac OSX 10.11 that were causing crashes.
+* Fixed a crash related to resizing thumbnails in the media browser.
+* Fixed a bug on Mac related to saving credentials.
+* Fixed a crash relating to changing groups while on air.
+* Increased the maximum size and maintenance of the slide manager database.
+* Fixed a crash caused by duplicating a presentation with an audio recording.
+* Fixed a bug on Mac causing an error importing PowerPoint presentations.
+
 ### 1.31.0.0806 (Mac only) Tuesday, October 20, 2015
 
 * Allow opening some Proclaim panels again
