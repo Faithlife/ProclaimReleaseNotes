@@ -4,6 +4,15 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0825 Monday, November 9, 2015
+* Added the ability to trim Sermon Recording audio from the middle of the recording.
+* Added Sermon Recording audio track zooming.
+* Closing Proclaim while recording audio will now finish the recording before exiting.
+* Improved Mac audio editing in the publish window.
+* Added sample recording under the audio settings menu.
+* Fixed several Sermon Recording soundbite-related bugs.
+* Fixed several minor bugs.
+
 ### 1.31.0.0811 Monday, November 2, 2015
 * Temporarily disabled several slide transitions on Mac OSX 10.11 that were causing crashes.
 * Fixed a crash related to resizing thumbnails in the media browser.
