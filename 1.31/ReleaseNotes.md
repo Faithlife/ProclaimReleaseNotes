@@ -4,7 +4,7 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
-### 1.31.0.0826 Thursday, November 12, 2015
+### 1.31.0.0826 (Windows only) Thursday, November 12, 2015
 * Fix issue where high DPI displays could render web page based Service Items using the incorrect resolution.
 
 ### 1.31.0.0825 Monday, November 9, 2015
