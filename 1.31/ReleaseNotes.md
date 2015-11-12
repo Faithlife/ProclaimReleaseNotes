@@ -4,6 +4,9 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0826 Thursday, November 12, 2015
+* Fix issue where high DPI displays could render web page based Service Items using the incorrect resolution.
+
 ### 1.31.0.0825 Monday, November 9, 2015
 * Added the ability to trim Sermon Recording audio from the middle of the recording.
 * Added Sermon Recording audio track zooming.
