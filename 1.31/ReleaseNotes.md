@@ -4,6 +4,13 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.836 Monday, November 23, 2015
+* Videos can now be previewed in the media browser.
+* Updated the song custom verse order bar for songs.
+* Added blank slide support for songs.
+* Fixed a bug that caused uploaded videos to appear as white boxes.
+* Fixed several minor bugs.
+
 ### 1.31.0.0826 (Windows only) Thursday, November 12, 2015
 * Fix issue where high DPI displays could render web page based Service Items using the incorrect resolution.
 
