@@ -4,7 +4,7 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
-### 1.31.0.0837 (Mac only) Wednesday, November 24, 2015
+### 1.31.0.0837 (Mac only) Wednesday, November 25, 2015
 * Fix issue with publishing Sermons on Mac with no ending audio trims.
 
 ### 1.31.0.836 Monday, November 23, 2015
