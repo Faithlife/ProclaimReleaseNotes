@@ -5,7 +5,7 @@ title: Proclaim 1.31 Release Notes
 # Proclaim Version 1.31
 
 ### 1.31.0.0838 Wednesday, November 25, 2015
-* Stop auto-playing Video previews in the media browser.
+* We no longer auto-play Video previews in the media browser.
 
 ### 1.31.0.0837 (Mac only) Wednesday, November 25, 2015
 * Fix issue with publishing Sermons on Mac with no ending audio trims.
