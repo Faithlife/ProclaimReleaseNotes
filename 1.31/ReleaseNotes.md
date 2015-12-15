@@ -4,6 +4,9 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0852 Tuesday, December 15, 2015
+* Fixed an issue where maintenance tasks would cause Proclaim to run slow
+
 ### 1.31.0.0851 Tuesday, December 8, 2015
 * Fix issue where song custom verse order check-box could recheck itself
 * Fix issue where some interactions with custom verse order could crash Proclaim
