@@ -4,6 +4,20 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0862 Tuesday, December 15, 2015
+* Removed the preview pane from the on-air edit view.
+* The timeline will now display the next upcoming slide when scrolling with the arrow keys.
+* Double clicking an item in the Media Browser will now add it to your current service item.
+* Made minor layout changes to Media Browser on Mac.
+* Changed default media for Service Items to be a black background.
+* Added a close button to the Publish Sermon Audio dialog.
+* Changed the sermon publishing window to display a default length of 40 minutes.
+* Fixed a bug where a sermon recording sound bite would not be published if the sound bite was never modified.
+* On Screen Bible references can now be dragged and dropped on Mac.
+* Fixed an issue when a user tries to change the setting on more than four monitors.
+* Fixed a potential hang on startup when logging in with no network connection.
+* Fixed several minor bugs.
+
 ### 1.31.0.0852 Tuesday, December 15, 2015
 * Fixed an issue where maintenance tasks would cause Proclaim to run slow
 
