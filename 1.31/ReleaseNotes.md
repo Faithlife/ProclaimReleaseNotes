@@ -4,7 +4,7 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
-### 1.31.0.0862 Tuesday, December 15, 2015
+### 1.31.0.0862 Monday, January 11, 2015
 * Removed the preview pane from the on-air edit view.
 * The timeline will now display the next upcoming slide when scrolling with the arrow keys.
 * Double clicking an item in the Media Browser will now add it to your current service item.
