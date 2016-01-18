@@ -4,6 +4,14 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0863 Monday, January 18, 2015
+* Add several new fonts including Cooper Hewitt, Amatic, Leauge Spartan, Roboto, Riffic, Blackout, Slabo, Montserrat, SourceSerifPro, and Pacifico
+* Don't consider text effects as part of text measurement for the purpose of fitting text - so adding glow won't shrink the font size
+* Enable authentication for new Graceway accounts
+* Fix an rare issue when saving logs and log files have the same name
+* Fix several other rare crashes
+
+
 ### 1.31.0.0862 Monday, January 11, 2015
 * Removed the preview pane from the on-air edit view.
 * The timeline will now display the next upcoming slide when scrolling with the arrow keys.
