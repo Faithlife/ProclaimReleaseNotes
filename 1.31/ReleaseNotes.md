@@ -4,6 +4,14 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0868 Monday, February 1, 2016
+* Fixed a bug involving text field dragging (Windows).
+* Fixed a bug when adding an image to an image slideshow from the media browser.
+* Fixed a crash in the Open menu (Mac).
+* Modified cover image selection for sermon publishing.
+* Updated user interface for the audio settings menu.
+* Minor updates to the Mac UI and the Open menu UI.
+
 ### 1.31.0.0863 Monday, January 18, 2015
 * Add several new fonts including Cooper Hewitt, Amatic, Leauge Spartan, Roboto, Riffic, Blackout, Slabo, Montserrat, SourceSerifPro, and Pacifico
 * Don't consider text effects as part of text measurement for the purpose of fitting text - so adding glow won't shrink the font size
