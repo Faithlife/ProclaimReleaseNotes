@@ -4,6 +4,10 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0870 Tuesday, February 2, 2016
+* Fixed an issue where users could not move text fields using the arrow keys.
+* Fixed a crash when you double click media in the Media Browser and have an empty presentation.
+
 ### 1.31.0.0868 Monday, February 1, 2016
 * Fixed a bug involving text field dragging (Windows).
 * Fixed a bug when adding an image to an image slideshow from the media browser.
