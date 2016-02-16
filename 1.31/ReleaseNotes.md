@@ -7,6 +7,7 @@ title: Proclaim 1.31 Release Notes
 ### 1.31.0.0878 Tuesday, February 2, 2016
 * New feature release: background fill settings.
 * Added output transparency color options in the Settings menu.
+* Added new language search facet in Media Browser.
 * Fixed a bug that caused toast notifications to be unclickable.
 * Fixed several other minor bugs
 
