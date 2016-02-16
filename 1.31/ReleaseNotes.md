@@ -4,6 +4,12 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0878 Tuesday, February 2, 2016
+* New feature release: background fill settings.
+* Added output transparency color options in the Settings menu.
+* Fixed a bug that caused toast notifications to be unclickable.
+* Fixed several other minor bugs
+
 ### 1.31.0.0870 Tuesday, February 2, 2016
 * Fixed an issue where users could not move text fields using the arrow keys.
 * Fixed a crash when you double click media in the Media Browser and have an empty presentation.
