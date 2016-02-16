@@ -4,6 +4,10 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0879 Tuesday, February 2, 2016
+* Fixed an issue with On Screen Bible switching style with no references.
+* Fixed an issue with Sermon Recordings not loading on Mac causing a crash.
+
 ### 1.31.0.0878 Tuesday, February 2, 2016
 * New feature release: background fill settings.
 * Added output transparency color options in the Settings menu.
