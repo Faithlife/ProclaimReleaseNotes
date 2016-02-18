@@ -3,6 +3,12 @@ title: Proclaim 1.31 Release Notes
 ---
 
 # Proclaim Version 1.31
+* Added support for additional image formats when detecting complimentary background colors
+* Fix infrequent crash when machine is low on memory
+* Fix a few minor issues
+
+### 1.31.0.0884 Thursday, February 18, 2016
+* Fixed an issue adding Service Items from media in the Media Browser
 
 ### 1.31.0.0883 Tuesday, February 16, 2016
 * Fixed an issue adding Service Items from media in the Media Browser
