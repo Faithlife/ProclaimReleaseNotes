@@ -4,6 +4,10 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0885 Tuesday, February 23, 2016
+* Fixed a bug that caused audio fade out to affect volume levels.
+* Fixed several minor bugs.
+
 ### 1.31.0.0884 Thursday, February 18, 2016
 * Added support for additional image formats when detecting complimentary background colors
 * Fix infrequent crash when machine is low on memory
