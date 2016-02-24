@@ -4,6 +4,9 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0886 Tuesday, February 23, 2016
+* Fixed a rare crash
+
 ### 1.31.0.0885 Tuesday, February 23, 2016
 * Fixed a bug that caused audio fade out to affect volume levels.
 * Fixed several minor bugs.
