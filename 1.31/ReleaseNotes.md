@@ -4,6 +4,15 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0893 Monday, February 29, 2016
+* Added partner media collections for Dan Stevers, Freebridge, and Playback Media.
+* The Media Browser now supports adding an entire series of slides.
+* Added support for a-la-carte purchases in the Media Browser.
+* Allow searching for multiple collection facets at the same time in the media browser.
+* Fixed a bug that would cause the audio publishing window to be hidden behind the main app window on Mac.
+* Changed certain maintenance work to happen on sign out instead of sign in.
+* Fixed several minor bugs.
+
 ### 1.31.0.0886 Tuesday, February 23, 2016
 * Fixed a rare crash
 
