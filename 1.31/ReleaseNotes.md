@@ -4,7 +4,7 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
-### 1.31.0.0893 Monday, February 29, 2016
+### 1.31.0.0894 Monday, February 29, 2016
 * Fixed a crash when a user tries to add audio to a service item
 
 ### 1.31.0.0893 Monday, February 29, 2016
