@@ -5,6 +5,9 @@ title: Proclaim 1.31 Release Notes
 # Proclaim Version 1.31
 
 ### 1.31.0.0893 Monday, February 29, 2016
+* Fixed a crash when a user tries to add audio to a service item
+
+### 1.31.0.0893 Monday, February 29, 2016
 * Added partner media collections for Dan Stevers, Freebridge, and Playback Media.
 * The Media Browser now supports adding an entire series of slides.
 * Added support for a-la-carte purchases in the Media Browser.
