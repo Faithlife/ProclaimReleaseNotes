@@ -4,6 +4,14 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0896 Monday March 7, 2016
+* Resizing foreground images will now maintain aspect ratio.
+* Holding Shift while resizing a foreground image will permit breaking aspect ratio.
+* Fixed a bug that caused custom foreground images to appear as white boxes.
+* Fixed a bug that caused large image slideshows to hang Proclaim.
+* Fixed a bug that caused pasting song lyrics to wipe other information fields.
+* Fixed several minor bugs.
+
 ### 1.31.0.0894 Monday, February 29, 2016
 * Fixed a crash when a user tries to add audio to a service item
 
