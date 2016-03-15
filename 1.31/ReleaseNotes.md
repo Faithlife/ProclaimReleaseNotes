@@ -4,6 +4,10 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0899 Tuesday March 15, 2016
+* Fix rare crash on slow networks
+* Add opt in beta of local network presentation sharing service
+
 ### 1.31.0.0896 Monday March 7, 2016
 * Resizing foreground images will now maintain aspect ratio.
 * Holding Shift while resizing a foreground image will permit breaking aspect ratio.
