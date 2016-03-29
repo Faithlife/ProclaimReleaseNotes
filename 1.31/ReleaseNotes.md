@@ -7,7 +7,7 @@ title: Proclaim 1.31 Release Notes
 ### 1.31.0.0900 Tuesday March 29, 2016
 * Support importing ProPresenter plain text song output
 * Fix rare issue where importing slides from Keynote would cause Proclaim to crash
-* Fix rare issue where some media would appear as unpurchable in the cart
+* Fix rare issue where some media would appear as not purchasable in the cart
 
 ### 1.31.0.0899 Tuesday March 15, 2016
 * Fix rare crash on slow networks
