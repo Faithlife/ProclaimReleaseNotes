@@ -4,6 +4,12 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.0914 Monday April 11, 2016
+* Fixed a bug that caused Proclaim to hang on sign out
+* Improved functionality for the custom verse bar
+* Minor UI changes to the Media Browser (Mac)
+* Added a link in the help menu to the Proclaim Faithlife group
+
 ### 1.31.0.0900 Tuesday March 29, 2016
 * Support importing ProPresenter plain text song output
 * Fix rare issue where importing slides from Keynote would cause Proclaim to crash
