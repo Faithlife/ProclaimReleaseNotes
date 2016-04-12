@@ -4,7 +4,7 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
-### 1.31.0.0914 Monday April 11, 2016
+### 1.31.0.0914 (Windows only) Monday April 11, 2016
 * Fixed a bug that caused Proclaim to hang on sign out
 * Improved functionality for the custom verse bar
 * Minor UI changes to the Media Browser (Mac)
