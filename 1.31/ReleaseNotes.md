@@ -4,6 +4,9 @@ title: Proclaim 1.31 Release Notes
 
 # Proclaim Version 1.31
 
+### 1.31.0.918 Thursday April 14, 2016
+* Minor changes to first run experience
+
 ### 1.31.0.0917 (Mac only) Tuesday April 12, 2016
 * Fixed a bug that caused Proclaim to hang on sign out
 * Improved functionality for the custom verse bar
