@@ -4,6 +4,11 @@ title: Proclaim 1.32 Release Notes
 
 # Proclaim Version 1.32
 
+### 1.32.0.1097 Wednesday May 4, 2016
+* Fixed an issue with inline reveal that caused erroneous slides to be generated.
+* Fixed crash when search for speaker when publishing audio
+* Added a link to learn about sermon sharing on Faithlife TV.
+
 ### 1.32.0.1093 Monday May 2, 2016
 * Updated Local Remote beta
 * Ability to set Speaker by account when publishing audio
