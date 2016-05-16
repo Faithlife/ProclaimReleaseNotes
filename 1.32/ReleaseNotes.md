@@ -4,6 +4,13 @@ title: Proclaim 1.32 Release Notes
 
 # Proclaim Version 1.32
 
+### 1.32.0.1106 Monday May 16, 2016
+* New feature: add faithlife.com church group calendar events to announcement service item.
+* Added 48 new preset custom styles.
+* Added service status indicator in the Help menu. 
+* Fixed an issue that caused the sign-in screen to be blurry on Mac retina displays.
+* Fixed several minor bugs.
+
 ### 1.32.0.1097 Wednesday May 4, 2016
 * Fixed an issue with inline reveal that caused erroneous slides to be generated.
 * Fixed crash when search for speaker when publishing audio
