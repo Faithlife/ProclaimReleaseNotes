@@ -4,6 +4,10 @@ title: Proclaim 1.33 Release Notes
 
 # Proclaim Version 1.33
 
+### 1.33.0.0126 Tuesday May 31, 2016
+* Fixed crash with color picker on Windows.
+* Fixed crash when service item kind filters in Media Browser is deselected.
+
 ### 1.33.0.0124 Tuesday May 31, 2016
 * Always show the textfield edit toolbar, disabling the buttons based on selected text field (Mac only).
 * Include Content media when opening Media Browser from an empty Announcement service item.
