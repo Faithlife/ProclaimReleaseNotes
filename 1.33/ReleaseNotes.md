@@ -4,6 +4,9 @@ title: Proclaim 1.33 Release Notes
 
 # Proclaim Version 1.33
 
+### 1.33.0.0128 Wednesday June 1, 2016
+* Fixed crash when opening Media Browser for foreground images
+
 ### 1.33.0.0126 Tuesday May 31, 2016
 * Fixed crash with color picker on Windows.
 * Fixed crash when service item kind filters in Media Browser is deselected.
