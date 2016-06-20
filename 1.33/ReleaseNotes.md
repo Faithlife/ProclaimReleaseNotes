@@ -4,6 +4,21 @@ title: Proclaim 1.33 Release Notes
 
 # Proclaim Version 1.33
 
+### 1.33.0.0136
+* Added setting enabling wrapping text in custom captions
+* Added "Amen" quick screen button
+* Enhanced the Confidence output display
+* Added Language setting to sermon recording edit/publish window
+* Added ability to clear cover photo from sermon recording edit/publish window
+* Showing default "first slide" cover photo in sermon recording edit/publish window when not overridden
+* Storing last published "Speaker" and "Series" as synced group preference and auto populating on sermon recording creation.
+* Showing tool tip for trimmed service item titles in Reuse Items
+* Avoid re-issuing media browser search filter when service item kind filter is updated but hasn't changed - https://community.logos.com/forums/t/126770.aspx
+* Fixed bug causing Faithlife Panel to be hidden on Mac when certain network issues were encountered
+* Fixed bug in emphasis text color picker, selecting a new color will apply the emphasis text
+* Better handling for disconnected Proclaim Remote controllers using local WiFi
+* Fixed bug causing incorrect layout of some close buttons on Mac.
+
 ### 1.33.0.0128 Wednesday June 1, 2016
 * Fixed crash when opening Media Browser for foreground images
 
