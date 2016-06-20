@@ -4,7 +4,12 @@ title: Proclaim 1.33 Release Notes
 
 # Proclaim Version 1.33
 
-### 1.33.0.0136
+### 1.33.0.0138 Monday June 20, 2016
+* Fixed crash with multiple service item kind facets selected
+* Fixed crash with confidence monitor for service items with no main content field
+* Fixed confidence monitor for power reveals
+
+### 1.33.0.0136 Monday June 20, 2016
 * Added setting enabling wrapping text in custom captions
 * Added "Amen" quick screen button
 * Enhanced the Confidence output display
