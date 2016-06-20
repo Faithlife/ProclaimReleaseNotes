@@ -18,6 +18,7 @@ title: Proclaim 1.33 Release Notes
 * Fixed bug in emphasis text color picker, selecting a new color will apply the emphasis text
 * Better handling for disconnected Proclaim Remote controllers using local WiFi
 * Fixed bug causing incorrect layout of some close buttons on Mac.
+* Made line height a percentage rather than a specific value
 
 ### 1.33.0.0128 Wednesday June 1, 2016
 * Fixed crash when opening Media Browser for foreground images
