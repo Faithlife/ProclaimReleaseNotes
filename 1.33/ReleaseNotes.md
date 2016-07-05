@@ -4,6 +4,11 @@ title: Proclaim 1.33 Release Notes
 
 # Proclaim Version 1.33
 
+### 1.33.0.0142 Tuesday July 5, 2016
+* Fixed issue with motion backgrounds on Content slides without a main text field
+* Fixed issue with confidence montior output when there is a foreground image
+* Increased confidence monitor clock sizes
+
 ### 1.33.0.0140 (Windows Only) Thursday June 23, 2016
 * Fixed issue with displaying multiple confidence monitors
 
