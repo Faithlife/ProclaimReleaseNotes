@@ -4,6 +4,9 @@ title: Proclaim 1.34 Release Notes
 
 # Proclaim Version 1.34
 
+### 1.34.0.0228 Thursday July 21, 2016
+* Fix for rare deserialization bug
+
 ### 1.34.0.0227 Monday July 18, 2016
 * Fixed issue copying over textfield values when changing media
 
