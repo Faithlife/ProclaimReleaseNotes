@@ -4,6 +4,13 @@ title: Proclaim 1.34 Release Notes
 
 # Proclaim Version 1.34
 
+### 1.34.0.0232 Monday July, 25 2016
+* Default spell check to on
+* Added spell check suggestions dictionary
+* Moved Planning Center Online item description and detail to Main Content for Content Service Items
+* Fixed installer issue when installing on Vista
+* Updated service item edit toolbar to reduce jumpiness when switching text fields.
+
 ### 1.34.0.0228 Thursday July 21, 2016
 * Fix for rare deserialization bug
 
