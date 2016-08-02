@@ -4,6 +4,10 @@ title: Proclaim 1.34 Release Notes
 
 # Proclaim Version 1.34
 
+### 1.34.0.0233 Monday August 2, 2016
+* Fixed an issue that caused the text/no text screens on Windows not to function.
+* Fixed a rare crash involving the "About Proclaim" menu in Spanish.
+
 ### 1.34.0.0232 Monday July, 25 2016
 * Default spell check to on
 * Added spell check suggestions dictionary
