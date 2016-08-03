@@ -4,7 +4,12 @@ title: Proclaim 1.34 Release Notes
 
 # Proclaim Version 1.34
 
-### 1.34.0.0233 Monday August 2, 2016
+### 1.34.0.0235 Wednesday August 3, 2016
+* Added better support for Sermon Editor.
+* Improved text-rendering performance.
+* Fixed several focus issues on Mac.
+
+### 1.34.0.0233 Tuesday August 2, 2016
 * Fixed an issue that caused the text/no text screens on Windows not to function.
 * Fixed a rare crash involving the "About Proclaim" menu in Spanish.
 
