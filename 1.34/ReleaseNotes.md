@@ -4,6 +4,12 @@ title: Proclaim 1.34 Release Notes
 
 # Proclaim Version 1.34
 
+### 1.34.0.0240 Tuesday August 9, 2016
+* Improved spellcheck functionality.
+* Fixed a bug that caused certain superscripts in the Lato font to appear at regular glyph size.
+* Backspace now properly deletes items in the order of service on Mac.
+* Restored up/down arrow control in edit pane
+
 ### 1.34.0.0235 Wednesday August 3, 2016
 * Improved text-rendering performance.
 * Fixed several focus issues on Mac.
