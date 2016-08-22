@@ -9,6 +9,7 @@ title: Proclaim 1.35 Release Notes
 * Fixed a text rendering issue that caused a crash on Mac.
 * Fixed an issue that caused Proclaim to hang when deleting song service items.
 * Imported calendar events can now be up to 90 days in the future.
+* Improved support for On-Screen Bible service items in recordings published to SoundFaith.com.
 * Fixed several minor bugs.
 
 ### 1.35.0.0145 Thursday, August 18, 2016
