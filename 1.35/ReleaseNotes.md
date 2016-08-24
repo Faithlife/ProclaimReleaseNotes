@@ -4,6 +4,9 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0148 Wednesday, August 24, 2016
+* Fixed an issue that caused inputting "--" not to create line breaks in songs.
+
 ### 1.35.0.0147 Monday, August 22, 2016
 * Minimum client version updated to 1.34.0.0226.
 * Fixed a text rendering issue that caused a crash on Mac.
