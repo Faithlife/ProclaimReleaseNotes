@@ -4,6 +4,16 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0161 Monday, September 12, 2016
+* Added a more visible Preview button for songs.
+* Fixed a bug where the confidence output wouldn't appear blank on a blank slide.
+* Confidence monitor now correctly shows song title.
+* Fixed a bug that caused presentation start time to be reset to 12:00.
+* Fixed a bug that caused offset text field selection (Windows).
+* Fixed a bug related to ending a presentation with an audio recording stop cue.
+* Increased number of saved log files from 5 to 10.
+* Unlooped motion backgrounds no longer restart when they're finished playing.
+
 ### 1.35.0.0148 Wednesday, August 24, 2016
 * Fixed an issue that caused inputting "--" not to create line breaks in songs.
 
