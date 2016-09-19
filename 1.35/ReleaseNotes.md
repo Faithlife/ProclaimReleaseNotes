@@ -4,6 +4,10 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0177 Monday, September 19, 2016 (Mac only)
+* Fix crashes on Mac OS X Sierra
+* Fixed church group selection during audio publish
+
 ### 1.35.0.0161 Monday, September 12, 2016
 * Added a more visible Preview button for songs.
 * Fixed a bug where the confidence output wouldn't appear blank on a blank slide.
