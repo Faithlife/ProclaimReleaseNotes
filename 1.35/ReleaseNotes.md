@@ -4,6 +4,18 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0185 Thursday, September 22, 2016 (Mac only)
+* Fixed memory leak with loading of fonts
+* Fixed issue with importing service items from PowerPoint
+
+### 1.35.0.0181 Wednesday, September 21, 2016
+* Fixed a crash when changing the background of a service item with duplicated text fields.
+* Fixed a crash with foreign language fonts on 32-bit systems.
+* Fixed an issue that caused PowerPoint and Keynote presentations not to import.
+* Added additional logging for SoundFaith sermon uploads.
+* Updated UI for collaboration.
+* Fixed several minor bugs.
+
 ### 1.35.0.0177 Monday, September 19, 2016 (Mac only)
 * Fix crashes on Mac OS X Sierra
 * Fixed church group selection during audio publish
