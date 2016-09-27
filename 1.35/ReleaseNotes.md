@@ -4,6 +4,9 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0187 Tuesday, September 27, 2016 (Windows only)
+* Fixed an issue that caused the Plays.TV app to cause Proclaim to crash.
+
 ### 1.35.0.0185 Thursday, September 22, 2016 (Mac only)
 * Fixed memory leak with loading of fonts
 * Fixed issue with importing service items from PowerPoint
