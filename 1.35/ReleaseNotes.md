@@ -5,7 +5,7 @@ title: Proclaim 1.35 Release Notes
 # Proclaim Version 1.35
 
 ### 1.35.0.0187 Tuesday, September 27, 2016 (Windows only)
-* Display warning when Plays.TV app is detected.
+* Display warning when Plays.TV client is detected.
 
 ### 1.35.0.0185 Thursday, September 22, 2016 (Mac only)
 * Fixed memory leak with loading of fonts
