@@ -4,6 +4,11 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0195 Friday, October 7, 2016
+* Additional logging for volume changes
+* Removed busy working spinner from main window while opening a presentation
+* Added Files service status indicator in help menu
+
 ### 1.35.0.0187 Tuesday, September 27, 2016 (Windows only)
 * Display warning when Plays.TV client is detected.
 
