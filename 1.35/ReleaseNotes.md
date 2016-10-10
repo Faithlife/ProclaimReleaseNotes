@@ -4,6 +4,9 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0197 Monday, October 10, 2016 (Mac only)
+* Fixed a rare crash.
+
 ### 1.35.0.0195 Friday, October 7, 2016
 * Additional logging for volume changes
 * Removed busy working spinner from main window while opening a presentation
