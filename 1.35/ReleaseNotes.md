@@ -4,6 +4,12 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0200 Tuesday, October 11, 2016
+* Fixed a rare crash related to text rendering. 
+* Fixed a bug that caused a spinner to improperly appear in the order of service (Mac).
+* Fixed a rare bug that would cause auto-advanced videos in the warm-up to skip the first service item.
+* Added additional logging.
+
 ### 1.35.0.0197 Monday, October 10, 2016 (Mac only)
 * Fixed a rare crash.
 
