@@ -4,6 +4,11 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0209 Tuesday, October 18, 2016
+* Fixed a rare crash related to text rendering.
+* Made media downloads more fault tolerant.
+* Improved help menu (Mac)
+
 ### 1.35.0.0200 Tuesday, October 11, 2016
 * Fixed a rare crash related to text rendering. 
 * Fixed a bug that caused a spinner to improperly appear in the order of service (Mac).
