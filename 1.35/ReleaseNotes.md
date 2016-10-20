@@ -4,6 +4,9 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0210 hursday, October 20, 2016
+* PowerPoint slides now properly display on the confidence output.
+
 ### 1.35.0.0209 Tuesday, October 18, 2016
 * Fixed a rare crash related to text rendering.
 * Made media downloads more fault tolerant.
