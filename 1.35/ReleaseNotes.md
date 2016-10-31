@@ -4,7 +4,13 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
-### 1.35.0.0210 hursday, October 20, 2016
+### 1.35.0.0217 Monday, October 31, 2016
+* Transferring control to PowerPoint will now properly activate the app window.
+* Added improved logging.
+* Fixed an issue that caused a crash during background updates.
+* Fixed several minor bugs.
+
+### 1.35.0.0210 Thursday, October 20, 2016
 * PowerPoint slides now properly display on the confidence output.
 
 ### 1.35.0.0209 Tuesday, October 18, 2016
