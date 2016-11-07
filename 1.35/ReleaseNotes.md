@@ -4,6 +4,10 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
+### 1.35.0.0219 Monday, November 7, 2016
+* Fix crash at startup when not connected to the Internet
+* Fix default cover image bug when publishing audio recordings to SoundFaith
+
 ### 1.35.0.0217 Monday, October 31, 2016
 * Transferring control to PowerPoint will now properly activate the app window.
 * Added improved logging.
