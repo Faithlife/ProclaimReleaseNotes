@@ -4,7 +4,7 @@ title: Proclaim 1.35 Release Notes
 
 # Proclaim Version 1.35
 
-### 1.35.0.0219 Monday, November 7, 2016
+### 1.35.0.0221 Monday, November 7, 2016
 * Fix crash at startup when not connected to the Internet
 * Fix default cover image bug when publishing audio recordings to SoundFaith
 
