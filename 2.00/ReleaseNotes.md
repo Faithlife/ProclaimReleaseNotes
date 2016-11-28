@@ -4,7 +4,7 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
-### 2.0.0.0007 Monday, November 28, 2016
+### 2.00.0.0007 Monday, November 28, 2016
 
 New features:
 * Added CCLI reporting.
