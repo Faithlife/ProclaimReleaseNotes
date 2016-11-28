@@ -22,7 +22,7 @@ New features:
 * Service sections are now collapsible.
 * Service items can now be multi-selected and made into a collapsible group.
 
-UI updates:
+#### UI updates:
 * New File, View, and Settings menus.
 * Sync icons updated.
 * Presentation location and aspect ratio have been moved from the main app screen to the Settings menu.
