@@ -5,6 +5,7 @@ title: Proclaim 2.0 Release Notes
 # Proclaim Version 2.00
 
 ### 2.00.0.0007 Monday, November 28, 2016
+
 #### New features:
 * Added CCLI reporting.
 * Service items of the same type may now be multi-selected to have changes applied to them.
