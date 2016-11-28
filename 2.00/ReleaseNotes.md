@@ -5,6 +5,7 @@ title: Proclaim 2.0 Release Notes
 # Proclaim Version 2.0
 
 ### 2.00.0.0007 Monday, November 28, 2016
+
 New features:
 * Added CCLI reporting.
 * Service items of the same type may now be multi-selected to have changes applied to them.
@@ -20,6 +21,7 @@ New features:
 * Foreground images can now be added to a single slide in a multi-slide service item.
 * Service sections are now collapsible.
 * Service items can now be multi-selected and made into a collapsible group.
+
 UI updates:
 * New File, View, and Settings menus.
 * Sync icons updated.
