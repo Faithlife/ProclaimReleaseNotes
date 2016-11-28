@@ -4,6 +4,9 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0008 Monday, November 28, 2016
+* Fixed regression with song input field
+
 ### 2.00.0.0007 Monday, November 28, 2016
 
 #### New features:
