@@ -4,6 +4,12 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0009 Monday, November 28, 2016
+* Fixed memory leak in Mac Media Browser
+* Allow Presentation title change on Mac
+* Fixed Windows link to release notes
+* Restored ability to delete duplicate song titles
+
 ### 2.00.0.0008 Monday, November 28, 2016
 * Fixed regression with song input field
 
