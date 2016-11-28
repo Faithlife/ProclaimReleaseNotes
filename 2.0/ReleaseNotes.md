@@ -6,7 +6,7 @@ title: Proclaim 2.0 Release Notes
 
 ### 2.0.0.0007 Monday, November 28, 2016
 
-#### New features:
+New features:
 * Added CCLI reporting.
 * Service items of the same type may now be multi-selected to have changes applied to them.
 * Added Faithlife Music integration.
@@ -22,7 +22,7 @@ title: Proclaim 2.0 Release Notes
 * Service sections are now collapsible.
 * Service items can now be multi-selected and made into a collapsible group.
 
-#### UI updates:
+UI updates:
 * New File, View, and Settings menus.
 * Sync icons updated.
 * Presentation location and aspect ratio have been moved from the main app screen to the Settings menu.
