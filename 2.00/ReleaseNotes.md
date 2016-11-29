@@ -30,6 +30,7 @@ title: Proclaim 2.0 Release Notes
 * Foreground images can now be added to a single slide in a multi-slide service item.
 * Service sections are now collapsible.
 * Service items can now be multi-selected and made into a collapsible group.
+* Added support to prefer lyrics from Planning Center Online or Elvanto during import
 
 #### UI updates:
 * New File, View, and Settings menus.
