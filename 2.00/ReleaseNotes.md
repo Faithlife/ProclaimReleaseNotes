@@ -4,6 +4,18 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0012 Tuesday, November 29, 2016
+* Fixed memory leaks with Mac audio recording and on screen messages
+* Fixed duplicating presentation from 'New from existing' menu on Windows
+* Added minimum width for Song title edit box
+* Moved disable hardware acceleration from startup to General settings (Windows)
+* Removed experimental video player option from startup (Windows)
+* Disable media browser options that don't apply to adding media to custom quick screens
+* Fixed the OSB quick screen's aspect ratio to match the presentation's aspect ratio
+* Updated the default transition duration of service items to match the presentation's default transition duration
+* Fixed single slide foreground images on songs
+* Fixed placement of drag/drop images
+
 ### 2.00.0.0009 Monday, November 28, 2016
 * Fixed memory leak in Mac Media Browser
 * Allow Presentation title change on Mac
