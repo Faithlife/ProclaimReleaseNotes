@@ -4,6 +4,10 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0013 Tuesday, November 29, 2016
+* Fixed regression when going off air with audio recording
+* Fixed regression with deleting text fields
+
 ### 2.00.0.0012 Tuesday, November 29, 2016
 * Fixed memory leaks with Mac audio recording and on screen messages
 * Fixed duplicating presentation from 'New from existing' menu on Windows
