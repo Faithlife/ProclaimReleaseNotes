@@ -47,6 +47,7 @@ title: Proclaim 2.0 Release Notes
 * Service sections are now collapsible.
 * Service items can now be multi-selected and made into a collapsible group.
 * Added support to prefer lyrics from Planning Center Online or Elvanto during import
+* Importing a PowerPoint presentation will now create slides as a grouping of content service items.
 
 #### UI updates:
 * New File, View, and Settings menus.
