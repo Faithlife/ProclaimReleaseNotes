@@ -4,6 +4,16 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0017 Wednesday, November 30, 2016
+* Prevent crash with application level warnings.
+* Fixed memory leaks in audio recording.
+* Fixed 'Print Presentation' menu item on Windows.
+* Prevent installing on Mac 10.9 and older.
+* Prevent trampling text fields when adding a background to multiple items.
+* Made Mac menus easier to use.
+* Fixed performance issue when filtering in Reuse and Open menus.
+* Fixed issue that caused effects and styles to be hidden at certain window sizes on Mac.
+
 ### 2.00.0.0013 Tuesday, November 29, 2016
 * Fixed regression when going off air with audio recording
 * Fixed regression with deleting text fields
