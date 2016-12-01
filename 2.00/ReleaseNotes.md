@@ -4,6 +4,12 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.00.0.0018 Thursday, December 1, 2016
+* Fixed crash when using CTRL+Drag or CMD+Drag.
+* Prevent opening "Add Item" menu when disabled.
+* Fixed crash on shutdown on Mac.
+* Fixed missing textfields (Song titles, credits...).
+
 ### 2.00.0.0017 Wednesday, November 30, 2016
 * Prevent crash with application level warnings.
 * Fixed memory leaks in audio recording.
