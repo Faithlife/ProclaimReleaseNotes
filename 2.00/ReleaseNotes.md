@@ -4,6 +4,12 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0021 Monday, December 5, 2016
+* Fixed selection of Order of Service item on right click. (Mac only)
+* Prevent infrequently occurring state corruption in Order of Service. (Mac only)
+* Fixed startup screen messages for expired licenses.
+* Added 'Learn more' links for store items in Media Browser.
+
 ### 2.00.0.0018 Thursday, December 1, 2016
 * Fixed crash when using CTRL+Drag or CMD+Drag.
 * Prevent opening "Add Item" menu when disabled.
