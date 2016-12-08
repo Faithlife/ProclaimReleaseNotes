@@ -4,6 +4,16 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0023 Thursday, December 8, 2016
+* Fixed crash with switching from Preview to Edit mode in Song Service Items (Mac).
+* Added links to learn more about Proclaim Pro Media and Partner Media in checkout process and Media Browser.
+* Do not try silent update while On Air (Windows).
+* Do not allow double click of Service Item name to cause On Air navigation (Mac).
+* Add 'Disable background updates' to General Settings (Windows).
+* Fixed large signals icon in Quick Screen settings.
+* Fixed an issue that would cause unintended volume changes on air (Mac).
+* Allow setting location from application warning.
+
 ### 2.0.0.0021 Monday, December 5, 2016
 * Fixed selection of Order of Service item on right click. (Mac only)
 * Prevent infrequently occurring state corruption in Order of Service. (Mac only)
