@@ -4,6 +4,15 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0025 Wednesday, December 14, 2016
+* Do not allow double clicking a service item name to cause On Air navigation (Windows).
+* Auto select Order of Service title when adding content, video, or image slideshow service items.
+* Show the file upload window on error when uploading immediately via drag and drop or copy and paste.
+* Fixed memory issues with filtering Reuse items and Presentations on the menus (Mac).
+* Fixed memory leak with Timeline hover previews (Mac).
+* Standardized CMD+Delete for Order of Service items and Editable items (Mac).
+* Reset scroll position in filterable lists (Reuse items, Open Presentation).
+
 ### 2.0.0.0023 Thursday, December 8, 2016
 * Fixed crash with switching from Preview to Edit mode in Song Service Items (Mac).
 * Added links to learn more about Proclaim Pro Media and Partner Media in checkout process and Media Browser.
