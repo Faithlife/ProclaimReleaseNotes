@@ -4,6 +4,10 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0026 Thursday, December 15, 2016
+* Use different filter text for Open and New from existing menus.
+* Always show delete button for Audio Play lists (Windows).
+
 ### 2.0.0.0025 Wednesday, December 14, 2016
 * Do not allow double clicking a service item name to cause On Air navigation (Windows).
 * Auto select Order of Service title when adding content, video, or image slideshow service items.
