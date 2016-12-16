@@ -4,6 +4,11 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0028 Friday, December 16, 2016
+* Disable background updates if LSP exclusion is not added (Windows).
+* Fixed issue with saving slide as images.
+* Always show delete button for Audio Play lists (Mac).
+
 ### 2.0.0.0026 Thursday, December 15, 2016
 * Use different filter text for Open and New from existing menus.
 * Always show delete button for Audio Play lists (Windows).
