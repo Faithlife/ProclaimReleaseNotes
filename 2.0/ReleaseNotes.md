@@ -4,6 +4,9 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0030 Monday, December 19, 2016
+* Fixed crash when importing a video from your computer (Mac).
+
 ### 2.0.0.0028 Friday, December 16, 2016
 * Disable background updates if LSP exclusion is not added (Windows).
 * Fixed issue with saving slide as images.
