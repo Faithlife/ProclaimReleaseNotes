@@ -4,6 +4,10 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0032 Thursday, December 22, 2016
+* Fixed local WiFi control issue (Windows).
+* Fixed right click bug in order of service (Windows).
+
 ### 2.0.0.0030 Monday, December 19, 2016
 * Fixed crash when importing a video from your computer (Mac).
 
