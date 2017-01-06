@@ -4,6 +4,9 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0038 Friday, January 6, 2017
+* Create a Church group when creating a new Presentation group via the Account menu
+
 ### 2.0.0.0032 Thursday, December 22, 2016
 * Fixed local WiFi control issue (Windows).
 * Fixed right click bug in order of service (Windows).
