@@ -4,6 +4,10 @@ title: Proclaim 2.0 Release Notes
 
 # Proclaim Version 2.0
 
+### 2.0.0.0039 Monday, January 16, 2017 (Mac only)
+* Minor change to video transition timing on Mac
+* Additional logging for slide transtions on Mac
+
 ### 2.0.0.0038 Friday, January 6, 2017
 * Create a Church group when creating a new Presentation group via the Account menu
 
