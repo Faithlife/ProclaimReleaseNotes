@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
         var macLink = document.createElement('a');
         macLink.text = 'Mac';
-        macLink.setAttribute('href', `http://downloads.logoscdn.com/Proclaim/Installer/${version}/Proclaim.dmg`);
+        macLink.setAttribute('href', `https://downloads.logoscdn.com/Proclaim/Installer/${version}/Proclaim.dmg`);
 
         div.appendChild(windowsLink);
         div.appendChild(document.createTextNode(' | '));
