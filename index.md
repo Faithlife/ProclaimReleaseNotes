@@ -3,6 +3,7 @@ title: Recent Proclaim Release Notes
 ---
 
 ### Recent Proclaim Release Notes
+* [2.9](http://faithlife.github.io/ProclaimReleaseNotes/2.9/ReleaseNotes.html)
 * [2.8](http://faithlife.github.io/ProclaimReleaseNotes/2.8/ReleaseNotes.html)
 * [2.7](http://faithlife.github.io/ProclaimReleaseNotes/2.7/ReleaseNotes.html)
 * [2.6](http://faithlife.github.io/ProclaimReleaseNotes/2.6/ReleaseNotes.html)
