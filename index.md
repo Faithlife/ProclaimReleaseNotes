@@ -3,6 +3,7 @@ title: Recent Proclaim Release Notes
 ---
 
 ### Recent Proclaim Release Notes
+* [2.10](http://faithlife.github.io/ProclaimReleaseNotes/2.10/ReleaseNotes.html) - From November 26, 2018
 * [2.9](http://faithlife.github.io/ProclaimReleaseNotes/2.9/ReleaseNotes.html) - From April 2, 2018
 * [2.8](http://faithlife.github.io/ProclaimReleaseNotes/2.8/ReleaseNotes.html) - From March 5, 2018
 * [2.7](http://faithlife.github.io/ProclaimReleaseNotes/2.7/ReleaseNotes.html) - From February 5, 2018
