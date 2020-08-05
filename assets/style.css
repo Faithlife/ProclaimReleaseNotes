@@ -110,6 +110,19 @@ header li {
   height:40px;
 }
 
+major-list-item {
+  background: #eeeeee;
+  border-radius: 3px;
+  display: flex;
+  justify-content: flex-start;
+  min-height: 30px;
+  align-items: center;
+  padding: 10px;
+  max-width: 600px;
+  margin-top: 16px;
+  margin-left: -26px;
+}
+
 header ul a {
   line-height:1;
   font-size:11px;
