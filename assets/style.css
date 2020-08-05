@@ -113,10 +113,7 @@ header li {
 .highlighted-list-item {
   background: #eeeeee;
   border-radius: 3px;
-  display: flex;
-  justify-content: flex-start;
   min-height: 30px;
-  align-items: center;
   padding: 10px;
   max-width: 600px;
   margin-top: 16px;
