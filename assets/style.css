@@ -110,7 +110,7 @@ header li {
   height:40px;
 }
 
-major-list-item {
+.highlighted-list-item {
   background: #eeeeee;
   border-radius: 3px;
   display: flex;
