@@ -10,41 +10,47 @@
   <body>
     <div class="container">
 		    <h1>Proclaim Version 3.2</h1>
+	    <div data-version="3.2.0.0039">
+		<h3>3.2.0.0039 Wednesday, March 23, 2022</h3>
+	    	<h4>New Proclaim Target Times</h4>
+	    <p>Add ability to specify when items should start and how long they should last</p>
+	    <ul>
+		<li data-case="PROC-9907">Add icon to Preview mode to indicate whether your service is on track with the target times.</li>
+		<li data-case="PROC-9908">Display start times in red when in when in conflict with prior durations</li>
+		<li data-case="PROC-10214">Expose HTTP appCommand API used for StreamDeck. <a href="https://support.faithlife.com/hc/en-us/articles/4972373093005">Learn more</a></li>
+	    </ul>
+	    <ul>
+		<li data-case="PROC-10176">Add Timeline settings to allow pinning the selected item to left, right, or center of the Timeline. (Settings > General).</li>
+		<li data-case="PROC-9821">Add Hide/Show item options to the Order of Service right-click menu</li>
+	    </ul>
+
+	    <h4>Bug Fixes</h4>
+	    <ul>
+		<li>Fix bug causing Proclaim not to launch on macOS 10.14 (Mac only)</li>
+		<li data-case="PROC-10222">Fix crash when importing PowerPoints with no text in them. (Windows only)</li>
+		<li data-case="PROC-10197">Fix text position issue when Chords appear at the end of a line.</li>
+		<li data-case="PROC-10182">Remove calculated durations from the standard order of service view.</li>
+		<li data-case="PROC-10165">Fall back to name match when trying to find equivalent MIDI devices.</li>
+		<li data-case="PROC-10156">Don’t double count groupings when calculating Warm Up start time.</li>
+		<li data-case="PROC-10153">Fix issue causing new text boxes to have very large font sizes.</li>
+		<li data-case="PROC-10136">Fix crash previewing lyrics in Song search. (Mac only)</li>
+		<li data-case="PROC-10133">Fix freezing video input when switching to confidence VS in Preview.</li>
+		<li data-case="PROC-10038">Make sure reused Song items retain their formatting.</li>
+		<li data-case="PROC-10036">Fix disabled state for expired sign feed items on newer macOS. (Mac only)</li>
+		<li data-case="PROC-10206">Fix crash when leaving a Bible Passage item with the Apple ColorPicker panel open. (Mac only)</li>
+		<li data-case="PROC-10196">Fix media layout settings not getting saved when creating smart media.</li>
+		<li data-case="PROC-10193">Show only a single Group or Ungroup context item based on state.</li>
+		<li data-case="PROC-10172">Pasting when on a service item in Edit view pastes as image even when focused in a field.</li>
+		<li data-case="PROC-10063">Fix scaling issues with Announcement v2 items. (Windows only)</li>
+		<li data-case="PROC-10060">Ensure Display settings are respected when changed even while On Air.</li>
+		<li data-case="PROC-10055">Update auto-advance time when scrubbing a video item.</li>
+	    </ul>
+	</div>
 	<div data-version="3.2.0.0038">
 		<h3>3.2.0.0038 Wednesday, March 23, 2022</h3>
-		    <h4>New Proclaim Target Times</h4>
-		    <p>Add ability to specify when items should start and how long they should last</p>
 		    <ul>
-			<li data-case="PROC-9907">Add icon to Preview mode to indicate whether your service is on track with the target times.</li>
-			<li data-case="PROC-9908">Display start times in red when in when in conflict with prior durations</li>
-			<li data-case="PROC-10214">Expose HTTP appCommand API used for StreamDeck. <a href="https://support.faithlife.com/hc/en-us/articles/4972373093005">Learn more</a></li>
-		    </ul>
-		    <ul>
-			<li data-case="PROC-10176">Add Timeline settings to allow pinning the selected item to left, right, or center of the Timeline. (Settings > General).</li>
-			<li data-case="PROC-9821">Add Hide/Show item options to the Order of Service right-click menu</li>
-		    </ul>
-
-		    <h4>Bug Fixes</h4>
-		    <ul>
-			<li>Fix bug causing Proclaim not to launch on macOS 10.14 (Mac only)</li>
-			<li data-case="PROC-10222">Fix crash when importing PowerPoints with no text in them. (Windows only)</li>
-			<li data-case="PROC-10197">Fix text position issue when Chords appear at the end of a line.</li>
-			<li data-case="PROC-10182">Remove calculated durations from the standard order of service view.</li>
-			<li data-case="PROC-10165">Fall back to name match when trying to find equivalent MIDI devices.</li>
-			<li data-case="PROC-10156">Don’t double count groupings when calculating Warm Up start time.</li>
-			<li data-case="PROC-10153">Fix issue causing new text boxes to have very large font sizes.</li>
-			<li data-case="PROC-10136">Fix crash previewing lyrics in Song search. (Mac only)</li>
-			<li data-case="PROC-10133">Fix freezing video input when switching to confidence VS in Preview.</li>
-			<li data-case="PROC-10038">Make sure reused Song items retain their formatting.</li>
-			<li data-case="PROC-10036">Fix disabled state for expired sign feed items on newer macOS. (Mac only)</li>
-			<li data-case="PROC-10206">Fix crash when leaving a Bible Passage item with the Apple ColorPicker panel open. (Mac only)</li>
-			<li data-case="PROC-10196">Fix media layout settings not getting saved when creating smart media.</li>
-			<li data-case="PROC-10193">Show only a single Group or Ungroup context item based on state.</li>
-			<li data-case="PROC-10172">Pasting when on a service item in Edit view pastes as image even when focused in a field.</li>
-			<li data-case="PROC-10063">Fix scaling issues with Announcement v2 items. (Windows only)</li>
-			<li data-case="PROC-10060">Ensure Display settings are respected when changed even while On Air.</li>
-			<li data-case="PROC-10055">Update auto-advance time when scrubbing a video item.</li>
-		    </ul>
+			    <li>Initial support for target times, bug fixes</li>
+		</ul>
 		</div>
 	    <div data-version="3.2.0.0030">
 		<h3>3.2.0.0030 Monday, February 21, 2022</h3>
