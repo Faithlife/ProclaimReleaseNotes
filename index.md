@@ -4,6 +4,7 @@ title: Recent Proclaim Release Notes
 
 ### Recent Proclaim Release Notes
 #### Original release dates are shown below, click on a version to see additional releases for that version.
+* [3.5](http://faithlife.github.io/ProclaimReleaseNotes/3.5/ReleaseNotes.html) - From January 23, 2023
 * [3.4](http://faithlife.github.io/ProclaimReleaseNotes/3.4/ReleaseNotes.html) - From June 7, 2022
 * [3.3](http://faithlife.github.io/ProclaimReleaseNotes/3.3/ReleaseNotes.html) - From April 26, 2022
 * [3.2](http://faithlife.github.io/ProclaimReleaseNotes/3.2/ReleaseNotes.html) - From September 27, 2021
