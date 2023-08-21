@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         var headerElement = versions[i];
 
         var version = headerElement.dataset.version;
-                var platforms = 'platform' in headerElement.dataset ? [ headerElement.dataset.platform ] : [ 'Windows', 'macOS' ];
+        var platforms = 'platform' in headerElement.dataset ? [ headerElement.dataset.platform ] : [ 'Windows', 'macOS' ];
 
         var div = document.createElement('div');
         div.setAttribute('class', 'download-links');
