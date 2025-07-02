@@ -16,18 +16,25 @@ document.addEventListener("DOMContentLoaded", function(event) {
             var platform = platforms[j];
 
             var link = document.createElement('a');
-            link.text = platform;
             switch (platform)
             {
                 case 'macOS':
+                    link.text = 'macOS (M-Series)';
+                    link.setAttribute('href', `https://downloads.logoscdn.com/Proclaim/Installer/${version}/Proclaim-arm.dmg`);
+                    div.appendChild(link);
+                    div.appendChild(document.createTextNode(' | '));
+
+                    link = document.createElement('a');
+                    link.text = 'macOS (Intel)';
                     link.setAttribute('href', `https://downloads.logoscdn.com/Proclaim/Installer/${version}/Proclaim.dmg`);
+                    div.appendChild(link);
                     break;
                 case 'Windows':
+                    link.text = platform;
                     link.setAttribute('href', `https://downloads.logoscdn.com/Proclaim/Installer/${version}/ProclaimSetup.exe`);
+                    div.appendChild(link);
                     break;
             }
-            
-            div.appendChild(link);
         }
 
         headerElement.appendChild(div);
